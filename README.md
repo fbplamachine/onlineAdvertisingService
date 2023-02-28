@@ -1,6 +1,6 @@
 # onlineAdvertisingService
 Implement a REST service for managing listings for online advertising service.
-# Requirement
+## Requirement
 For building and running the application you need:
 
 - [JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
