@@ -40,7 +40,7 @@ To access the documentation of the project, after starting, go to this link : [l
 - **Tier Limit**
 
 ## Database Schema
-<img alt="online-advertising-service-schema-database" src="https://user-images.githubusercontent.com/11476407/196592098-f65fdf36-9825-4a1d-89b3-e8d5662a038e.png">
+<img alt="online-advertising-service-schema-database" src="https://github.com/fbplamachine/onlineAdvertisingService/blob/main/docs/database/online-advertising-service-schema-database.png?raw=true">
 
 
 
